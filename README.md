@@ -22,7 +22,7 @@ bufament, emmotlament rotacional, laminatge manual, projecció simultània, emmo
 prepeg, SMC, pultrusió, RTM, VARI, emmotlament per injecció de resina.
 - [ ] Tractaments tèrmics i superficials: tempre, reveniment, recuita, nitruració, anodització, galvanització.
 
-## Mòdul 4. Processos d'unió
+## Mòdul 4. Processos d'unió
 - [ ] Fonaments de la soldadura: processos d'unió, soldabilitat i simbologia.
 - [ ] Tècniques de soldadura elèctrica: SMAW, TIG, MIG/MAG, soldadura per plasma, soldadura per resistència i
 soldadura làser.
@@ -44,19 +44,19 @@ soldadura làser.
 - [ ] Digitalització 3D i reconstrucció de models: escaneig 3D, tècniques de reconstrucció i programari.
 
 ## Mòdul 8: Ofimàtica i informàtica aplicada
-- [ ]Coneixements bàsics d'ofimàtica: Windows, Word, Excel, PowerPoint.
+- [ ] Coneixements bàsics d'ofimàtica: Windows, Word, Excel, PowerPoint.
 - [ ] Coneixements complementaris d'informàtica: Autocad, Mastercam, programari de disseny i simulació.
 
 ## Mòdul 9. Seguretat i salut
 - [ ] Protecció en laboratoris i tallers: riscos mecànics, elèctrics i químics.
-- [ ]Ergonomia del lloc de treball i pantalles de visualització: riscos posturals i visuals.
+- [ ] Ergonomia del lloc de treball i pantalles de visualització: riscos posturals i visuals.
 - [ ] Planificació de l'activitat preventiva de riscos: implementació i control.
 - [ ] Guia de pràctiques d'alumnes en laboratoris amb riscos mecànics. Informació accessible en:
 [http://www.sprl.upv.es/guiapracalummecan.htm](http://www.sprl.upv.es/guiapracalummecan.htm)
 - [ ] Els equips de treball. Informació accessible en: [http://www.sprl.upv.es/d7_9_b.htm](http://www.sprl.upv.es/d7_9_b.htm)
 
 ## Mòdul 10. Control de qualitat i gestió de laboratori
-- [ ]Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.
+- [ ] Control de qualitat en processos de fabricació: inspecció i anàlisi de defectes.
 - [ ] Gestió del laboratori: inventari, manteniment i organització.
 - [ ] Gestió ambiental i de residus a la Universitat Politècnica de València. Normativa aplicable. Informació
 accessible en: [http://www.upv.es/medioambiente.](http://www.upv.es/medioambiente)
