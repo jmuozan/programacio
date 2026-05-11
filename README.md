@@ -1,7 +1,7 @@
 # Topics
 
 ## Mòdul 1. Metrologia i normalització
-- [ ]Fonaments de metrologia dimensional: unitats, patrons, precisió, traçabilitat i pla de calibratge.
+- [ ] Fonaments de metrologia dimensional: unitats, patrons, precisió, traçabilitat i pla de calibratge.
 - [ ] Normalització: toleràncies, sistema ISO, ajustos, simbologia i calibres passa/no passa.
 - [ ] Tècniques de mesurament I: instruments de mesura de longituds, micromètrics i nònius.
 - [ ] Tècniques de mesurament II: mesura de rugositat superficial, MMC i toleràncies geomètriques.
@@ -37,12 +37,13 @@ soldadura làser.
 ## Mòdul 6. Fabricació additiva
 - [ ] Introducció a la fabricació additiva: tecnologies i aplicacions.
 - [ ] Tecnologies d'impressió 3D: FDM, SLA, SLS i materials usats.
-- [ ] Processament i postprocessament de peces additives: paràmetres, optimització i validació de peces.
+- [ ] Processament i postprocessament de peces additives: paràmetres, optimització i validació de peces.
 
 ## Mòdul 7. Enginyeria inversa
 - [ ] Fonaments d'enginyeria inversa: definició, aplicacions i beneficis en la indústria.
 - [ ] Digitalització 3D i reconstrucció de models: escaneig 3D, tècniques de reconstrucció i programari.
- ## Mòdul 8: Ofimàtica i informàtica aplicada
+
+## Mòdul 8: Ofimàtica i informàtica aplicada
 - [ ]Coneixements bàsics d'ofimàtica: Windows, Word, Excel, PowerPoint.
 - [ ] Coneixements complementaris d'informàtica: Autocad, Mastercam, programari de disseny i simulació.
 
